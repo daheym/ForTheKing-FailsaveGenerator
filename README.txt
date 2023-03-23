@@ -8,4 +8,5 @@ to which you can fall back in case a corrupted save is generated.
 This program can also be used to generate regular backup copies from any file
 you want.
 
-You can pack the program into a standalone *.exe by using PyInstaller.
+You can pack the program into a standalone *.exe by using PyInstaller. The 
+provided .zip file already contains an executable version of the python script.

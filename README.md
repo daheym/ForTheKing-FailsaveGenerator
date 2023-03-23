@@ -9,3 +9,5 @@ generated.
 
 This program can also be used to generate regular backup copies from any file you want.
 You can pack the program into a standalone *.exe by using PyInstaller.
+
+The .zip archive contains an executable version of the python script.
