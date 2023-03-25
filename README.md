@@ -12,5 +12,4 @@ You can pack the program into a standalone *.exe by using PyInstaller.
 
 The .zip archive contains an executable version of the python script.
 
-Screenshot: 
 ![Screenshot](FTK-Failsave.PNG)
